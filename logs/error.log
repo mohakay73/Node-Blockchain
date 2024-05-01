@@ -1,0 +1,11 @@
+Method: DELETE Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:28:48 Success: false - Message: Kunde inte hitta resursen /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698
+Method: GET Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:28:56 Success: false - Message: Kunde inte hitta resursen /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698
+Method: GET Url: /api/v1/tickets/ Date: 2024-05-01 Time: 22:29:05 Success: undefined - Message: products is not defined
+Method: DELETE Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:30:10 Success: false - Message: Kunde inte hitta resursen /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698
+Method: DELETE Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:30:38 Success: false - Message: Kunde inte hitta resursen /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698
+Method: DELETE Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:31:16 Success: false - Message: Kunde inte hitta resursen /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698
+Method: DELETE Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:32:19 Success: undefined - Message: pticket is not defined
+Method: GET Url: /api/v1/tickets/e55d08159d4b4ff2837110c01dfde698 Date: 2024-05-01 Time: 22:33:45 Success: undefined - Message: ErrorResponse is not defined
+Method: GET Url: /api/v1/tickets/c0343296795246c4a60a9594532ebf6d Date: 2024-05-01 Time: 22:55:52 Success: undefined - Message: ErrorResponse is not defined
+Method: GET Url: /api/v1/tickets/d7736dfaa3c3497a94befe74f83e0b14 Date: 2024-05-01 Time: 22:56:11 Success: undefined - Message: ErrorResponse is not defined
+Method: GET Url: /api/v1/tickets/c504dc278e2f49119ff1611353d9d5c1 Date: 2024-05-01 Time: 22:56:38 Success: undefined - Message: ErrorResponse is not defined
